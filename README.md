@@ -1,8 +1,7 @@
 # ParallerOpenMPPiCount
 
 By using C++ programming language and OpenMP C/C++ compiler's extension create a console application able to calculate value of PI number in parallel. The calculation can be done in accordance to the following equation:
-
-vypočet pi
+https://moodle.utb.cz/pluginfile.php/792488/mod_assign/intro/pi.jpg
 
 The application's user must be allowed to specify:
 
